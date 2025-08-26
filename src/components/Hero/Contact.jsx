@@ -1,5 +1,5 @@
 import React from "react";
-import worldMap from "../../assets/worldMap.png";
+import worldMap from "../../assets/worldmap.png";
 import HpImage from "../../assets/HpImage.png";
 import {motion} from "framer-motion"
 
