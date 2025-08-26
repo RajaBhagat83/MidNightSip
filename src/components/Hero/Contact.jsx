@@ -48,7 +48,7 @@ function Headers() {
         </div>
       </div>
       <div className="flex justify-center">
-        <img src={HpImage} style={{width:"1200px", height:"400px" ,objectFit:"cover"}}/>
+        <img src={HpImage} style={{width:"1100px", height:"300px" ,objectFit:"cover"}}/>
       </div>
     </div>
   );

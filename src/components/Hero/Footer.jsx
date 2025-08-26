@@ -12,7 +12,7 @@ function Footer() {
     whileInView={{opacity:1, y:0}}
     transition={{duration:0.8 , ease:"easeIn"}}
     viewport={{once:true,amount:0.6}}
-     className='h-[550px] w-full bg-Primary text-white'>
+     className='h-[550px] w-full bg-Primary text-white mt-24'>
       <div className='flex'>
         <div className='p-16 ml-56 text-lg'>
           {/* Coders Cafe */}
