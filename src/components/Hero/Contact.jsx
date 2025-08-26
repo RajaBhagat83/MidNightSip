@@ -12,9 +12,10 @@ function Headers() {
         whileInView={{opacity:1, x:0}}
         transition={{duration:0.8, ease:"easeOut"}}
         viewport={{once:true,amount:0.6}}
-        className="block m-32">
+        className="flex-10 block m-32">
           <h1>Buy our </h1>
           <h1>products from</h1> anywhere
+          <div className="flex-1 block">
           <div className="mt-12">
             <input
               type="text"
@@ -38,6 +39,7 @@ function Headers() {
               placeholder="Zipcode"
               className="border-4 border-gray-300 text-lg p-3 ml-5 rounded-lg"
             />
+          </div>
           </div>
           <div className="border-2 border-black rounded-xl mt-6 h-14 flex justify-center bg-Primary">
             <button className="text-2xl text-white ">Order Now </button>
