@@ -16,7 +16,7 @@ function Headers() {
           <h1>Buy our </h1>
           <h1>products from</h1> anywhere
           <div className="flex-1 block">
-          <div className="mt-12">
+          <div className="mt-12 flex">
             <input
               type="text"
               placeholder="Name"
