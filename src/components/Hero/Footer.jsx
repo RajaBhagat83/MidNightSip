@@ -14,7 +14,7 @@ function Footer() {
     viewport={{once:true,amount:0.6}}
      className='h-[550px] w-full bg-Primary text-white mt-24'>
       <div className='flex'>
-        <div className='p-16 ml-56 text-lg'>
+        <div className='p-16 ml-32 text-lg'>
           {/* Coders Cafe */}
           <h1 className='text-3xl font-semibold'>CODERS CAFE</h1>
           <h1 className='w-96 mt-10 '>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quibusdam qui dignissimos in quas, expedita labore, voluptate impedit aliquid consequuntur this is the lorem tezt that can be generated using loream </h1>
