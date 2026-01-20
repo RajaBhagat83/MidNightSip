@@ -21,7 +21,7 @@ function Headers() {
           className="
             flex-10 block
             px-6 sm:px-12
-            lg:m-4
+            lg:m-16
             mt-12 lg:mt-0
           "
         >
